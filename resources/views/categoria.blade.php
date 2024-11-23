@@ -5,12 +5,14 @@
     </x-slot>
     <div class="grid grid-cols-4 gap-4" >
         @foreach ($categoria->palavras as $palavra)
-            <a class="max-w-sm p-6 bg-blue-500 border border-gray-200 rounded-lg shadow h-60 grid items-center justify-center" href="{{ url('/palavras/'.$palavra->id) }}">
-                <div>
-                    <strong class="text-white text-xl ">{{ $palavra->palavra }}</strong>
-                </div>
-                <img src="{{$palavra->url}}" alt="" class="h-28">
-            </a>
+        <a class="max-w-sm p-6 bg-blue-500 border border-gray-200 rounded-lg shadow grid grid-rows-[auto,1fr] items-center justify-items-center" href="{{ url('/palavras/'.$palavra->id) }}">
+            <div class="mb-4">
+                <strong class="text-white text-xl text-center">{{ $palavra->palavra }}</strong>
+            </div>
+            <img src="{{ $palavra->url }}" alt="" class="h-34">
+        </a>
+
+
         @endforeach
     </div>
 </x-layout>

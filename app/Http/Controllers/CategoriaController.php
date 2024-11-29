@@ -8,14 +8,12 @@ class CategoriaController extends Controller
 {
     public function index()
     {
-        $categorias = Categoria::all();
+        $categorias = Categoria::orderBy('titulo','asc')->get();
         return view('categorias', compact('categorias'));
     }
     public function show($id)
-{
-    $categoria = Categoria::with('palavras')->findOrFail($id);
-    return view('categoria', compact('categoria'));
-}
-
-
+    {
+        $categoria = Categoria::with('palavras')->findOrFail($id);
+        return view('categoria', compact('categoria'));
+    }
 }

@@ -1,7 +1,7 @@
 # Glossário Libras
 
 <div align="center">  
-    <img src="/imgs/logo-glossario-libras-540.png"/>
+    <img width="300px" height="300px" src="/imgs/logo-glossario-libras-540.png"/>
 </div>
 
 [Link para o site do projeto](https://glossario-libras-01ecf9e7ace1.herokuapp.com)

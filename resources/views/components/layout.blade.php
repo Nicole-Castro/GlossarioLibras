@@ -15,7 +15,9 @@
             <div class="flex h-16 items-center justify-between">
                 <div class="flex items-center">
                     <div class="flex-shrink-0">
-                        <img class="h-12 w-14" src="https://www.gov.br/mdh/pt-br/ondh/centrais-de-conteudo/imagens/libras.png" alt="Glossário Libras Logo">
+                        <a href="/">
+                            <img class="h-12 w-14" src="https://i.ibb.co/hLJvp20/logo-glossario-libras-1080.png" alt="Glossário Libras Logo">
+                        </a>
                     </div>
                 </div>
 

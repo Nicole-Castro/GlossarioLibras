@@ -13,5 +13,12 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 
 [Link para o site do projeto](https://glossario-libras-01ecf9e7ace1.herokuapp.com)
 
-Equipe composta por Enrico Araújo, Guilherme de Oliveira, Gustavo Silvestre, João Rubens
-Leônidas, Nicole Castro, Rafael Leite Firmino e Rodrigo Grande.
+
+## Autores
+- Enrico Araújo
+- Guilherme de Oliveira
+- Gustavo Silvestre
+- João Rubens Leônidas
+- Nicole Castro
+- Rafael Leite Firmino
+- Rodrigo Grande

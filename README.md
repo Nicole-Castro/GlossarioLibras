@@ -20,7 +20,7 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 - Blade Templates
 - Tailwind CSS
 - Supabase
-- Heroku
+- Heroku
 - ImgBB
 
 

@@ -14,6 +14,16 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 [Link para o site do projeto](https://glossario-libras-01ecf9e7ace1.herokuapp.com)
 
 
+## Tecnologias
+- PHP 8.3
+- Laravel 11
+- Blade Templates
+- Tailwind CSS
+- Supabase
+- Heroku
+- ImgBB
+
+
 ## Autores
 - Enrico Araújo
 - Guilherme de Oliveira

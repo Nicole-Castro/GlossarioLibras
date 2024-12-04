@@ -14,6 +14,12 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 [Link para o site do projeto](https://glossario-libras-01ecf9e7ace1.herokuapp.com)
 
 
+## Layout Web
+
+
+## Layout Mobile
+
+
 ## Tecnologias
 - PHP 8.3
 - Laravel 11
@@ -22,6 +28,7 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 - Supabase
 - Heroku
 - ImgBB
+- VLibras
 
 
 ## Sobre as Tecnologias
@@ -46,6 +53,12 @@ Um serviço de platform-as-a-service (PaaS) que simplifica a hospedagem e o gere
 
 ### ImgBB
 Um serviço online de hospedagem de imagens. Ele permite enviar e armazenar imagens na nuvem, gerando links para compartilhamento e integração em projetos web.
+
+### VLibras
+Ferramenta gratuita que traduz conteúdos digitais para Libras usando um avatar virtual. Promove inclusão para pessoas surdas, funcionando em navegadores, celulares e computadores.
+
+
+## Instruções de Uso
 
 
 ## Colaboradores

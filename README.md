@@ -24,7 +24,31 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 - ImgBB
 
 
-## Autores
+## Sobre as Tecnologias
+### PHP 8.3
+A versão mais recente da linguagem de programação PHP, amplamente utilizada para desenvolvimento web. Oferece melhorias em desempenho, novos recursos, como readonly classes, e maior segurança.
+
+### Laravel 11
+Um framework PHP robusto e popular que facilita o desenvolvimento de aplicações web modernas. Ele oferece ferramentas para criação de APIs, autenticação, roteamento e acesso a banco de dados, com foco na produtividade do desenvolvedor.
+
+### Blade Templates
+O mecanismo de templates nativo do Laravel. Ele permite criar interfaces dinâmicas e reutilizáveis com uma sintaxe simples e clara, integrando HTML e PHP de forma eficiente.
+
+### Tailwind CSS
+
+Um framework CSS utilitário que oferece classes pré-definidas para estilização rápida e personalizada. Ele permite criar designs consistentes e responsivos sem escrever CSS extenso.
+
+### Supabase
+Uma plataforma de backend-as-a-service que oferece bancos de dados PostgreSQL, autenticação e APIs em tempo real. É uma alternativa de código aberto ao Firebase, focada em desenvolvimento rápido.
+
+### Heroku
+Um serviço de platform-as-a-service (PaaS) que simplifica a hospedagem e o gerenciamento de aplicações. Ele suporta várias linguagens e frameworks, permitindo deploys fáceis na nuvem.
+
+### ImgBB
+Um serviço online de hospedagem de imagens. Ele permite enviar e armazenar imagens na nuvem, gerando links para compartilhamento e integração em projetos web.
+
+
+## Colaboradores
 - Enrico Araújo
 - Guilherme de Oliveira
 - Gustavo Silvestre

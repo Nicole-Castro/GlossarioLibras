@@ -69,8 +69,42 @@ Ferramenta gratuita que traduz conteúdos digitais para Libras usando um avatar 
 
 
 ## Instruções de Uso
-```git
+### OBS:
+É necessário que já esteja instalado na máquina o Git, PHP 8.3 ou superior e o Composer.
+
+### Baixe o repositório na sua máquina
+```
 Git Clone https://github.com/Nicole-Castro/GlossarioLibras.git
+```
+
+### Instale as dependências da aplicação
+```
+Composer Install
+```
+
+### Instale as dependências da aplicação
+```
+Composer Install
+```
+
+### Faça a configuração do arquivo .env para rodar localmente
+```
+DB_CONNECTION=**************
+DB_HOST=********************
+DB_PORT=********************
+DB_DATABASE=****************
+DB_USERNAME=****************
+DB_PASSWORD=****************
+```
+
+### Gere e configure a chave de segurança 
+```
+php artisan key:generate
+```
+
+### Inicia um servidor local
+```
+php artisan serve
 ```
 
 ## Colaboradores

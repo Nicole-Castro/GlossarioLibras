@@ -17,15 +17,15 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 ## Layout Web
 <div align="center">  
     <img width="900px" height="506px" src="/imgs/web-tela-inicial.png"/>
-    <img width="900px" height="506px" src="/imgs/web-tela-categoria.png"/>
+    <img width="900px" height="506px" src="/imgs/web-tela-categorias.png"/>
     <img width="900px" height="506px" src="/imgs/web-tela-categorias-tecnologia.png"/>
 </div>
 
 ## Layout Mobile
 <div align="center">  
     <img width="337px" height="600px" src="/imgs/mobile-tela-inicial.png"/>
-    <img width="337px" height="600px" src="/imgs/mobile-tela-categorias.png"/>
-    <img width="337px" height="600px" src="/imgs/mobile-tela-categorias-tecnologia.png"/>
+    <img width="200px" height="600px" src="/imgs/mobile-tela-categorias.png"/>
+    <img width="200px" height="600px" src="/imgs/mobile-tela-categorias-tecnologia.png"/>
 </div>
 
 ## Tecnologias

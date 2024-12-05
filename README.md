@@ -79,7 +79,7 @@ Git Clone https://github.com/Nicole-Castro/GlossarioLibras.git
 
 ### Instale as dependências da aplicação
 ```
-Composer Install
+composer install
 ```
 
 ### Faça a configuração do arquivo .env para rodar localmente

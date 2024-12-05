@@ -69,9 +69,9 @@ Ferramenta gratuita que traduz conteúdos digitais para Libras usando um avatar 
 
 
 ## Instruções de Uso
-'''git
+```git
 Git Clone https://github.com/Nicole-Castro/GlossarioLibras.git
-'''
+```
 
 ## Colaboradores
 - Enrico Araújo

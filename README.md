@@ -82,11 +82,6 @@ Git Clone https://github.com/Nicole-Castro/GlossarioLibras.git
 Composer Install
 ```
 
-### Instale as dependências da aplicação
-```
-Composer Install
-```
-
 ### Faça a configuração do arquivo .env para rodar localmente
 ```
 DB_CONNECTION=**************

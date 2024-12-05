@@ -7,7 +7,9 @@
 ## Sobre o Projeto
 **Desenvolvimento de um software de glossário de Libras**
 
-O projeto foi realizado como parte da disciplina de Seminários III do curso de Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais, uma iniciativa extensionista que visa promover a interação entre a universidade e a comunidade para atender a demandas reais. Nosso trabalho foi idealizado para atender o Centro Municipal de Atendimento Educacional Especializado Dr. Tarso de Coimbra, que oferece suporte a pessoas com deficiência auditiva e surdez.
+O projeto foi realizado como parte da disciplina de Seminários III do curso de Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais, uma iniciativa extensionista que visa promover a interação entre a universidade e a comunidade para atender a demandas reais. 
+
+Nosso trabalho foi idealizado para atender o Centro Municipal de Atendimento Educacional Especializado Dr. Tarso de Coimbra, que oferece suporte a pessoas com deficiência auditiva e surdez.
 
 O objetivo do software é proporcionar um glossário de Libras que facilite a pesquisa de palavras e seus significados, promovendo acessibilidade e inclusão na comunicação e no aprendizado.
 
@@ -67,7 +69,9 @@ Ferramenta gratuita que traduz conteúdos digitais para Libras usando um avatar 
 
 
 ## Instruções de Uso
-
+'''git
+Git Clone https://github.com/Nicole-Castro/GlossarioLibras.git
+'''
 
 ## Colaboradores
 - Enrico Araújo

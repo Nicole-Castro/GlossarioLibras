@@ -19,14 +19,14 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
     <img width="900px" height="506px" src="/imgs/web-tela-inicial.png"/>
     <img width="900px" height="506px" src="/imgs/web-tela-categoria.png"/>
     <img width="900px" height="506px" src="/imgs/web-tela-categorias-tecnologia.png"/>
-    
 </div>
 
 ## Layout Mobile
-<img width="300px" height="600px" src="/imgs/mobile-tela-inicial.png"/>
-<img width="300px" height="600px" src="/imgs/mobile-tela-categorias.png"/>
-<img width="300px" height="600px" src="/imgs/mobile-tela-categorias-tecnologia.png"/>
-
+<div align="center">  
+    <img width="337px" height="600px" src="/imgs/mobile-tela-inicial.png"/>
+    <img width="337px" height="600px" src="/imgs/mobile-tela-categorias.png"/>
+    <img width="337px" height="600px" src="/imgs/mobile-tela-categorias-tecnologia.png"/>
+</div>
 
 ## Tecnologias
 - PHP 8.3

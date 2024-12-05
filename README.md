@@ -15,10 +15,10 @@ O objetivo do software é proporcionar um glossário de Libras que facilite a pe
 
 
 ## Layout Web
-
+<img width="300px" height="600px" src="/imgs/web-tela-inicial.png"/>
 
 ## Layout Mobile
-
+<img width="300px" height="600px" src="/imgs/mobile-tela-inicial.png"/>
 
 ## Tecnologias
 - PHP 8.3
